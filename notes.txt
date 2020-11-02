@@ -1,0 +1,9 @@
+Tasks:
+
+* Error Fallback Page
+* Lazy Load images (try react-progressive-graceful-image)
+* icon
+- Optimizations
+- Unit testing
+- Make it a PWA
+- Deploy to Netlify

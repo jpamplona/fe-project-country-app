@@ -1,0 +1,21 @@
+{
+  "short_name": "Country App",
+  "name": "Country App",
+  "icons": [
+    {
+      "src": "earth192.png",
+      "type": "image/png",
+      "sizes": "192x192"
+    },
+    {
+      "src": "earth512.png",
+      "type": "image/png",
+      "sizes": "512x512"
+    }
+  ],
+  "start_url": "./",
+  "scope": ".",
+  "display": "standalone",
+  "theme_color": "#45C8FA",
+  "background_color": "#010A15"
+}
